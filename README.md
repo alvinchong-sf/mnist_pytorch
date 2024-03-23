@@ -1,6 +1,8 @@
 ## Anaconda commands to run PyTorch
 > First install Anaconda https://www.anaconda.com/download
 
+> Install Jupynote book extension if using VScode as IDE
+
 ```bash
 conda create --name <env_name>
 
